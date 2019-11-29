@@ -10,7 +10,7 @@ echo "Le répertoire choisi est : $repertoire"
 
 #6 Affichage de tous les fichiers du repertoire qui respectent le pattern entré en paramètre
 
-ls $repertoire/$1
+#ls $repertoire/$1
 
 #7 afficher les fichiers selon le deuxième pattern (option i pour que le pattern ne soit pas sensible à la casse et l pour ne pas lancer une recherche infinie le pgm s'arrête dès le premier match).  
 grep -il $2 $repertoire/$1
