@@ -12,6 +12,8 @@ Ce dépot a été créé dans le cadre du cours de Linux du Master Mosef donné 
 ## Modifications et améliorations 
 N'hésitez pas à proposer d'éventuelle modification et/ ou amélioration et à les PR si nécessaire. Merci
 
+## Test
+![alt_text](test.png)
 
 Amal ILAHIANE 
 
